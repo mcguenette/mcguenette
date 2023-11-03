@@ -16,8 +16,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcguenette&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-## 🛠️ Acquiring new skills and enhancing existing ones
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+## 🌱 I'm currently learning
 
 ### 👨‍💻 Programming and Markup Languages
 
@@ -45,12 +44,17 @@ I'm excited to continue learning and growing in this ever-evolving field.
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+## 🗨️ Connect with me
   
-### 🗨️ Links to socials
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mc-guenette/)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discordapp.com/users/267818850488287253)
-  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+[LinkedIn]: https://www.linkedin.com/in/mc-guenette/
+[Discord]: https://discordapp.com/users/267818850488287253
+
+
 <br><br>
 <h3 align="center">Thanks for stopping by!</h3>
 <p align="center">
