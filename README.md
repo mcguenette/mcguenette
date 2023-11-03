@@ -17,6 +17,7 @@ Welcome to my github profile, follow me as I build a portfolio of fun and exciti
 ## 🛠️ Learning NEW skills and improving current ones
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
