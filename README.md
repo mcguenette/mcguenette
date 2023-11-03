@@ -1,4 +1,4 @@
-![](https://github.com/mcguenette/mcguenette/blob/main/mc_banner.gif)
+![](https://github.com/mcguenette/mcguenette/blob/main/2023-11-03%2012-57-20.gif)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5DAF6&center=true&vCenter=true&random=false&width=435&lines=Software+Developer+Student;Definitely+a+weeb;Volleyball+Coach;Wpg+Jets+fan;Detroit+Lions+fan;Gamer+girl;Just+a+jocky+nerd+at+heart" alt="Typing SVG" /></a>
