@@ -1,9 +1,14 @@
 ![](https://github.com/mcguenette/mcguenette/blob/main/wepik-export-20231103152623wTBL.png)
-<h1 style="text-align: center;">MC Guénette</h1>
-<p style="text-align: center;" >[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AE9DF7&random=false&width=435&lines=Software+Developer+Student;Definitely+a+weeb;Enjoy+playing+%26+coaching+volleyball;Wpg+Jets+fan;Detroit+Lions+fan;Gamer+girl;Just+a+jocky+nerd+at+heart)](https://git.io/typing-svg)</p>
+
+<h1 align="center" style="color:purple;>MC Guénette</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AE9DF7&center=true&vCenter=true&random=false&width=435&lines=Software+Developer+Student;Definitely+a+weeb;Volleyball+Coach;Wpg+Jets+fan;Detroit+Lions+fan;Gamer+girl;Just+a+jocky+nerd+at+heart" alt="Typing SVG" /></a>
+</p>
+
 ---
 
 ### Hello world👋
+
 My name is MC (she/her) and I am currently a Software developer/engineer student at MITT. (Expected graduation date is in August 2024)
 Welcome to my github profile, follow me as I build a portfolio of fun and exciting projects to share.
 
