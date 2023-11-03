@@ -9,12 +9,12 @@
 </p>
 <br><br>
 
-### Hello world👋
+## Hello world👋
 My name is MC (she/her) and I am currently a Software developer/engineer student at MITT. (Expected graduation date is August 2024)
 Welcome to my github profile, follow me as I build a portfolio of fun and exciting projects to share.
 <br><br>
 
-<h2>🛠️ Learning NEW skills and improving current ones</h2>
+## 🛠️ Learning NEW skills and improving current ones
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
