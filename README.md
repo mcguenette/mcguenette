@@ -50,9 +50,11 @@ I'm excited to continue learning and growing in this ever-evolving field.
   
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [LinkedIn]: https://www.linkedin.com/in/mc-guenette/
 [Discord]: https://discordapp.com/users/267818850488287253
+[GitHub]: https://github.com/mcguenette
 
 
 <br><br>
