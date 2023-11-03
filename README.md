@@ -1,9 +1,9 @@
 ![](https://github.com/mcguenette/mcguenette/blob/main/2023-11-03%2012-57-20.gif)
 
-## Hello world👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=Software+Developer+Student;Weeb+%26+Gamer;Volleyball+Coach;Wpg+Jets+fan;Detroit+Lions+fan)](https://git.io/typing-svg)
+---
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=Software+Developer+Student;Weeb+%26+Gamer;Volleyball+Coach;Wpg+Jets+fan;Detroit+Lions+fan)](https://git.io/typing-svg)
 
-👩‍💻 My name is MC, a bilingual (French & English) software developer student with seven years of hands-on experience in the tech industry. Currently, I'm pursuing my software developer diploma at the Manitoba Institute of Technology (MITT). I have a passion for web development and hope one day I can travel and work around the world improving my skills and gain a variety of experiences. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
+Hello world👋, my name is MC and I am a bilingual (French & English) software developer student with seven years of hands-on experience in the tech industry. Currently, I'm pursuing my software developer diploma at the Manitoba Institute of Technology (MITT). I have a passion for web development and hope one day I can travel and work around the world improving my skills and gain a variety of experiences. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
 
 🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡ _iykyk_ 
 
@@ -15,11 +15,11 @@ I'm excited to continue learning and growing in this ever-evolving field.
 </p>
 <br><br>
 
-## 🛠️ Learning NEW skills and improving current ones
+### 🛠️ Learning NEW skills and improving current ones
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+#### 👨‍💻 Programming and Markup Languages
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -32,7 +32,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+#### 🧰 Frameworks and Libraries
 
   <p>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
