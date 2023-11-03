@@ -10,8 +10,11 @@
 <br><br>
 
 ## Hello world👋
-My name is MC (she/her) and I am currently a Software developer/engineer student at MITT. (Expected graduation date is August 2024)
-Welcome to my github profile, follow me as I build a portfolio of fun and exciting projects to share.
+👩‍💻 My name is MC, a bilingual (French & English) software developer student with seven years of hands-on experience in the tech industry. Currently, I'm pursuing my software developer diploma at the Manitoba Institute of Technology (MITT). I have a passion for web development and hope one day I can travel and work around the world improving my skills and gain a variety of experiences. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
+
+🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡ _iykyk_ 
+
+I'm excited to continue learning and growing in this ever-evolving field.
 <br><br>
 
 ## 🛠️ Learning NEW skills and improving current ones
