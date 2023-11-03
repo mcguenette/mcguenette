@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=Software+Developer+Student;Weeb+%26+Gamer;Volleyball+Coach;Sports+Fan)](https://git.io/typing-svg)
 
-Hello world👋, my name is MC and I am a bilingual (French & English) software developer student with seven years of hands-on experience in the tech industry. Currently, I'm pursuing my software developer diploma at the Manitoba Institute of Technology (MITT). I have a passion for web development and hope one day I am able to travel and work around the world while improving my skills and experiencing new things. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
+👋 Hello world, my name is MC and I am a bilingual (French & English) software developer student with seven years of hands-on experience in the tech industry. Currently, I'm pursuing my software developer diploma at the Manitoba Institute of Technology (MITT). I have a passion for web development and hope one day I am able to travel and work around the world while improving my skills and experiencing new things. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
 
 🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡ _iykyk_ 
 
@@ -16,7 +16,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcguenette&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-## 🛠️ Learning NEW skills and improving current ones
+## 🛠️ Acquiring new skills and enhancing existing ones
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ### 👨‍💻 Programming and Markup Languages
