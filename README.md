@@ -16,9 +16,9 @@ I'm excited to continue learning and growing in this ever-evolving field.
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcguenette&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
-### 👨‍💻 Programming and Markup Languages
+#### 👨‍💻 Programming and Markup Languages
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,11 +30,11 @@ I'm excited to continue learning and growing in this ever-evolving field.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### 🧰 Frameworks and Libraries
+#### 🧰 Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 💻 Software and Tools
+#### 💻 Software and Tools
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +46,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-## 🗨️ Connect with me
+### 🗨️ Connect with me
   
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
