@@ -8,16 +8,15 @@ Hello world👋, my name is MC and I am a bilingual (French & English) software 
 🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡ _iykyk_ 
 
 I'm excited to continue learning and growing in this ever-evolving field.
-<br><br>
+
+<br>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcguenette&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-<br><br>
 
 ### 🛠️ Learning NEW skills and improving current ones
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
 
 #### 👨‍💻 Programming and Markup Languages
 
