@@ -66,7 +66,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 
 <br>
 
-<h3 align="center">Thank you for stopping by, Merci!</h3>
+<h2 align="center">Thank you for stopping by</h2>
 <p align="center">
    <img src="https://64.media.tumblr.com/d872ee2d15798315436e69164b94518d/653f8899b72d638a-e8/s540x810/65ff68953d798221a4a4b001f20cdf94dc699217.gif">
 </p>
