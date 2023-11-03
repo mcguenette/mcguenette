@@ -12,9 +12,13 @@ I'm excited to continue learning and growing in this ever-evolving field.
 
 <br>
 
+---
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mcguenette&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+---
 
 ### 🌱 I'm currently learning
 
@@ -45,6 +49,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+---
 
 ### 🗨️ Connect with me
   
@@ -56,8 +61,8 @@ I'm excited to continue learning and growing in this ever-evolving field.
 [Discord]: https://discordapp.com/users/267818850488287253
 [GitHub]: https://github.com/mcguenette
 
+<br>
 
-<br><br>
 <h3 align="center">Thanks for stopping by!</h3>
 <p align="center">
    <img src="https://64.media.tumblr.com/d872ee2d15798315436e69164b94518d/653f8899b72d638a-e8/s540x810/65ff68953d798221a4a4b001f20cdf94dc699217.gif">
