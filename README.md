@@ -6,7 +6,7 @@
 
 👋 Hello world, my name is MC and I am a bilingual _(French & English)_ software developer student with over seven years of hands-on experience in the tech industry. Currently, I'm **pursuing my software developer diploma at the Manitoba Institute of Technology (MITT)**. I have a passion for web development and hope one day I am able to travel and work around the world while improving my skills and experiencing new things. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
 
-🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡ _iykyk_ 
+🌟 Outside of coding, I enjoy playing video games, watching anime, playing and watching sports, coaching volleyball _(ex college volleyball player)_. My true loves are my nephews and nieces, they are my world and I do have a doggo named Laxus⚡
 
 I'm excited to continue learning and growing in this ever-evolving field.
 
