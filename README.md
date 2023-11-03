@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=I'm+a+software+developer+student;I'm+a+weeb+%26+gamer;I+coach+volleyball;I+play+and+watch+sports;I'm+a+retired+college+vball+player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=I'm+a+software+developer+student;I'm+a+weeb+%26+gamer;I+coach+volleyball;I+play+and+watch+sports;I'm+a+ex+college+vball+player)](https://git.io/typing-svg)
 
 👋 Hello world, my name is MC and I am a bilingual _(French & English)_ software developer student with over seven years of hands-on experience in the tech industry. Currently, I'm **pursuing my software developer diploma at the Manitoba Institute of Technology (MITT)**. I have a passion for web development and hope one day I am able to travel and work around the world while improving my skills and experiencing new things. My GitHub profile showcases my commitment to software development. I'm enthusiastic about connecting with fellow developers, collaborating on exciting projects, and being a part of the ever-evolving tech community.
 
