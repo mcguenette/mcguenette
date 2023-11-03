@@ -14,7 +14,7 @@ My name is MC (she/her) and I am currently a Software developer/engineer student
 Welcome to my github profile, follow me as I build a portfolio of fun and exciting projects to share.
 <br><br>
 
-<summary><h2>🛠️ Learning NEW skills and improving current ones</h2></summary>
+<h2>🛠️ Learning NEW skills and improving current ones</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
