@@ -19,6 +19,7 @@ I'm excited to continue learning and growing in this ever-evolving field.
 </p>
 
 ---
+<br> 
 
 ### 🌱 I'm currently learning
 
@@ -48,6 +49,8 @@ I'm excited to continue learning and growing in this ever-evolving field.
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
 
 ---
 
